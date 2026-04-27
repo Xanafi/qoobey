@@ -1,0 +1,164 @@
+header{background-color: red;
+text-align: center;
+color: white;
+font-size: 2em ;}
+body {
+    background-image: url(BOT.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+nav ul{
+list-style-type: none;
+padding: 0;
+}
+nav a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    color: aqua;
+
+}
+nav li{
+    margin-bottom: 10px;
+
+}
+main{
+    padding: 0;
+}
+
+#ch1{
+    color: rgb(10, 244, 224);
+}
+#HY1{
+    color: #FFFF;
+}
+li{
+    font-size: 20p;
+    
+}
+#trt{
+    color: blue;
+    
+}
+#testyy{
+    color: whitesmoke;
+    text-align: center;
+    font-size:larger;
+    font-style: normal;
+    font-weight: 400;
+    font-weight: bolder;
+}
+#milk{
+    color: rgb(5, 188, 239);
+    font-size: large;
+    font-weight: bolder;
+    font-style: normal;
+    font-display: block;
+}
+footer{
+    color: rgba(15, 14, 14, 0.858);
+    font-size: 15px;
+}
+h2{
+    font-weight: bolder;
+    font-size: 35px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: blue;
+}
+ul{
+    color: rgb(111, 24, 24);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: fallback;
+}
+#suui{
+    background-image: url(maqayad.jpg);
+}
+#jabir{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+#h33{
+    color: white;
+    font-size: 30px;
+}
+#ul1{
+    color: antiquewhite;
+}
+#p1{
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+#footer1{
+    color: darkcyan;
+    font-weight: bold;
+}
+#abut{
+    background-image: url(OIP.webp);
+}
+#menuu{
+    background-color: rgb(19, 41, 41);
+}
+#gall{
+    background-color: aquamarine;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+#oi1{
+    background-color: chocolate;
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+#nigger{
+    color: white;
+}
+#gg{
+    color: antiquewhite;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#six{
+    background-color: chartreuse;
+}
+#poo{
+    color: aliceblue;
+}
+#cnt{
+    background-image: url(us.webp);
+    im
+}
+#number{
+    background-color: blue;
+
+}
+#foll{
+    color: wheat;
+    font-size: 20px;
+    font-weight: bold;
+}
+#grr{
+    color: white;
+}
+#h343{
+    color: aliceblue;
+    font-size: 30px;
+}
+#jii{
+    color: white;
+}
+#trr{
+    color: white;
+}
